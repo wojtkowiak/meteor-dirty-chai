@@ -1,6 +1,6 @@
 Package.describe({
     name: 'omega:dirty-chai',
-    version: '0.0.1',
+    version: '0.0.2',
     summary: 'Just a wrapper for dirty-chai.',
     git: 'https://github.com/wojtkowiak/meteor-dirty-chai',
     documentation: 'README.md'
@@ -14,7 +14,7 @@ Npm.depends({
 Package.onUse(function(api) {
     api.versionsFrom('1.1.0.3');
     api.use('practicalmeteor:chai@2.1.0_1');
-    
+
     api.addFiles('server.js', 'server');
 
     api.use('cosmos:browserify@0.9.2', 'client');

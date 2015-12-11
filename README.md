@@ -1,6 +1,6 @@
 # Meteor dirty-chai
 
-Loads the dirty-chai chai plugin. This package should be used with https://github.com/practicalmeteor/chai or https://github.com/practicalmeteor/mocha.
+Loads the [dirty-chai](https://www.npmjs.com/package/dirty-chai) chai plugin. This package should be used with [practicalmeteor:chai](https://github.com/practicalmeteor/meteor-chai) or [practicalmeteor:mocha](https://github.com/practicalmeteor/mocha).
 
 ## Installation
 
