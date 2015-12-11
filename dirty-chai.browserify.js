@@ -1,0 +1,1 @@
+dirtyChai = require('dirty-chai');
